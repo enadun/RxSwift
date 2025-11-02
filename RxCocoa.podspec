@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
   s.dependency 'RxSwift', '6.5.0'
   s.dependency 'RxRelay', '6.5.0'
 
-  s.swift_version = '5.1'
+  s.swift_version = '5.0'
 end
